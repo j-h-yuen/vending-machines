@@ -1,0 +1,4219 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.250832,
+          37.758673
+        ]
+      },
+      "properties": {
+        "address": "2227 S Shore Center, Alameda, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28051,
+          37.785476
+        ]
+      },
+      "properties": {
+        "address": "2600 5th St, Alameda, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.255072,
+          38.164634
+        ]
+      },
+      "properties": {
+        "address": "103 American Canyon Rd, American Canyon, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.937898,
+          33.801941
+        ]
+      },
+      "properties": {
+        "address": "1616 W Katella Ave, Anaheim, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.888534,
+          33.831224
+        ]
+      },
+      "properties": {
+        "address": "810 S State College Blvd, Anaheim, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.791941,
+          33.850334
+        ]
+      },
+      "properties": {
+        "address": "5600 E Santa Ana Canyon Rd, Anaheim, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.908464,
+          36.978599
+        ]
+      },
+      "properties": {
+        "address": "16 Rancho del Mar, Aptos, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.023108,
+          34.107885
+        ]
+      },
+      "properties": {
+        "address": "298 Live Oak Ave, Arcadia, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.057685,
+          34.12494
+        ]
+      },
+      "properties": {
+        "address": "745 W Naomi Ave, Arcadia, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.093788,
+          38.944004
+        ]
+      },
+      "properties": {
+        "address": "2550 Bell Rd, Auburn, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.979353,
+          34.068392
+        ]
+      },
+      "properties": {
+        "address": "3000 Baldwin Park Blvd, Baldwin Park, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.979353,
+          34.068392
+        ]
+      },
+      "properties": {
+        "address": "3000 Baldwin Park Blvd, Baldwin Park, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166117,
+          33.970693
+        ]
+      },
+      "properties": {
+        "address": "6901 Eastern Ave, Bell Gardens, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.275761,
+          37.518614
+        ]
+      },
+      "properties": {
+        "address": "1100 El Camino Real, Belmont, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.155712,
+          38.054803
+        ]
+      },
+      "properties": {
+        "address": "50 Solano Square, Benicia, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.270107,
+          37.880817
+        ]
+      },
+      "properties": {
+        "address": "1444 Shattuck Pl, Berkeley, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.729267,
+          37.964774
+        ]
+      },
+      "properties": {
+        "address": "6700 Lone Tree Wy, Brentwood, CA",
+        "performer": "WinCo Foods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.34656,
+          34.155162
+        ]
+      },
+      "properties": {
+        "address": "301 N Pass Ave, Burbank, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.699769,
+          34.144896
+        ]
+      },
+      "properties": {
+        "address": "26521 Agoura Rd, Calabasas, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.037802,
+          34.226194
+        ]
+      },
+      "properties": {
+        "address": "940 Arneill RD, Camarillo, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.970961,
+          38.656383
+        ]
+      },
+      "properties": {
+        "address": "3380 Coach Ln, Cameron Park, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.950223,
+          37.280626
+        ]
+      },
+      "properties": {
+        "address": "2341 S Winchester Blvd, Campbell, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.966685,
+          37.292887
+        ]
+      },
+      "properties": {
+        "address": "950 W Hamilton Ave, Campbell, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.324944,
+          33.178786
+        ]
+      },
+      "properties": {
+        "address": "2560 El Camino Real, Carlsbad, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.268622,
+          33.103486
+        ]
+      },
+      "properties": {
+        "address": "6951 El Camino Real, Carlsbad, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.326185,
+          38.63814
+        ]
+      },
+      "properties": {
+        "address": "4040 Manzanita Ave, Carmichael, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.272579,
+          33.806383
+        ]
+      },
+      "properties": {
+        "address": "200 E Sepulveda Blvd, Carson, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.050451,
+          37.694739
+        ]
+      },
+      "properties": {
+        "address": "4015 E Castro Valley Blvd, Castro Valley, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.688322,
+          34.034808
+        ]
+      },
+      "properties": {
+        "address": "12013 Central Ave, Chino, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.695513,
+          33.961471
+        ]
+      },
+      "properties": {
+        "address": "15970 Los Serranos Country Club Dr, Chino Hills, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.734224,
+          34.001673
+        ]
+      },
+      "properties": {
+        "address": "3255 Grand Ave, Chino Hills, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.961152,
+          32.61984
+        ]
+      },
+      "properties": {
+        "address": "1745 Eastlake Pkwy, Chula Vista, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.966294,
+          32.645736
+        ]
+      },
+      "properties": {
+        "address": "2250 Otay Lakes Rd, Chula Vista, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.294017,
+          38.680059
+        ]
+      },
+      "properties": {
+        "address": "7301 Greenback Ln, Citrus Heights, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.252606,
+          33.902486
+        ]
+      },
+      "properties": {
+        "address": "1900 W Rosecrans Ave, Compton, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.028161,
+          37.978116
+        ]
+      },
+      "properties": {
+        "address": "2600 Willow Pass Rd, Concord, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.990764,
+          37.966155
+        ]
+      },
+      "properties": {
+        "address": "4309 Clayton Rd, Concord, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.574268,
+          33.843645
+        ]
+      },
+      "properties": {
+        "address": "260 W Foothill Pkwy, Corona, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.52014,
+          33.891372
+        ]
+      },
+      "properties": {
+        "address": "535 N McKinley St, Corona, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.453069,
+          33.747328
+        ]
+      },
+      "properties": {
+        "address": "11800 De Palma Rd, Corona, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.517711,
+          37.92797
+        ]
+      },
+      "properties": {
+        "address": "137 Corte Madera Town Center, Corte Madera, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.393763,
+          33.996745
+        ]
+      },
+      "properties": {
+        "address": "11030 Jefferson Blvd, Culver City, CA",
+        "performer": "Pavilions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.034556,
+          37.336155
+        ]
+      },
+      "properties": {
+        "address": "20620 W Homestead Rd, Cupertino, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.481574,
+          37.699501
+        ]
+      },
+      "properties": {
+        "address": "601 Westlake Center, Daly City, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.917666,
+          37.798045
+        ]
+      },
+      "properties": {
+        "address": "3496 Camino Tassajara, Danville, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.838914,
+          38.45689
+        ]
+      },
+      "properties": {
+        "address": "1235 Stratford Ave, Dixon, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.144495,
+          33.905237
+        ]
+      },
+      "properties": {
+        "address": "13525 Lakewood Blvd, Downey, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.127135,
+          33.935995
+        ]
+      },
+      "properties": {
+        "address": "8626 Firestone Blvd, Downey, CA",
+        "performer": "Ralphs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.927013,
+          37.705862
+        ]
+      },
+      "properties": {
+        "address": "7499 Dublin Blvd, Dublin, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.874139,
+          37.706699
+        ]
+      },
+      "properties": {
+        "address": "4440 Tassajara Rd, Dublin, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.591837,
+          33.959829
+        ]
+      },
+      "properties": {
+        "address": "7070 Archibald Ave, Eastvale, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.557839,
+          33.976525
+        ]
+      },
+      "properties": {
+        "address": "6170 Hamner Ave, Eastvale, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.920147,
+          32.808679
+        ]
+      },
+      "properties": {
+        "address": "1608 Broadway, El Cajon, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.956405,
+          32.778856
+        ]
+      },
+      "properties": {
+        "address": "1201 Avocado Ave, El Cajon, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.937556,
+          32.739302
+        ]
+      },
+      "properties": {
+        "address": "2899 Jamacha Rd, El Cajon, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.316038,
+          37.922682
+        ]
+      },
+      "properties": {
+        "address": "11450 San Pablo Ave, El Cerrito, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.083848,
+          38.711389
+        ]
+      },
+      "properties": {
+        "address": "2207 Francisco Dr, El Dorado Hills, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.028319,
+          38.675138
+        ]
+      },
+      "properties": {
+        "address": "3383 Bass Lake Rd, El Dorado Hills, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4466,
+          38.424246
+        ]
+      },
+      "properties": {
+        "address": "5021 Laguna Blvd, Elk Grove, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.407433,
+          38.437986
+        ]
+      },
+      "properties": {
+        "address": "8124 Sheldon Rd, Elk Grove, CA",
+        "performer": "WinCo Foods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.280098,
+          37.829282
+        ]
+      },
+      "properties": {
+        "address": "3889 San Pablo Ave, Emeryville, CA",
+        "performer": "Pak N Save"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.105793,
+          33.108731
+        ]
+      },
+      "properties": {
+        "address": "1570 W Valley Pkwy, Escondido, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.106755,
+          33.148578
+        ]
+      },
+      "properties": {
+        "address": "1000 W El Norte Pkwy, Escondido, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.073248,
+          33.103163
+        ]
+      },
+      "properties": {
+        "address": "351 W Felicita Ave, Escondido, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.083358,
+          33.128628
+        ]
+      },
+      "properties": {
+        "address": "644 N Broadway, Escondido, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.307248,
+          38.665239
+        ]
+      },
+      "properties": {
+        "address": "5450 Dewey Dr, Fair Oaks, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.054023,
+          38.271917
+        ]
+      },
+      "properties": {
+        "address": "2401 Waterman Blvd, Fairfield, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.256038,
+          33.371878
+        ]
+      },
+      "properties": {
+        "address": "1133 S Mission Rd, Fallbrook, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.916236,
+          34.395032
+        ]
+      },
+      "properties": {
+        "address": "636 Ventura St, Fillmore, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.174659,
+          38.655978
+        ]
+      },
+      "properties": {
+        "address": "200 Blue Ravine Rd, Folsom, CA",
+        "performer": "WinCo Foods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.164104,
+          38.650193
+        ]
+      },
+      "properties": {
+        "address": "1850 Prairie City Rd, Folsom, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.492158,
+          34.107548
+        ]
+      },
+      "properties": {
+        "address": "14338 Foothill Blvd, Fontana, CA",
+        "performer": "WinCo Foods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.490093,
+          34.12
+        ]
+      },
+      "properties": {
+        "address": "7390 Cherry Ave, Fontana, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27595,
+          37.556792
+        ]
+      },
+      "properties": {
+        "address": "921 E Hillsdale Blvd, Foster City, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.95666,
+          33.729052
+        ]
+      },
+      "properties": {
+        "address": "16061 Brookhurst St, Fountain Valley, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77559,
+          36.940009
+        ]
+      },
+      "properties": {
+        "address": "2010 Freedom Blvd, Freedom, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.988688,
+          37.545949
+        ]
+      },
+      "properties": {
+        "address": "39100 Argonaut Way, Fremont, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.957176,
+          37.531505
+        ]
+      },
+      "properties": {
+        "address": "3902 Washington Blvd, Fremont, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.872351,
+          33.890028
+        ]
+      },
+      "properties": {
+        "address": "1930 N Placentia Ave, Fullerton, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.029038,
+          33.790168
+        ]
+      },
+      "properties": {
+        "address": "11861 Valley View St, Garden Grove, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.297818,
+          33.890918
+        ]
+      },
+      "properties": {
+        "address": "1260 W Redondo Beach Blvd, Gardena, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.308021,
+          33.874237
+        ]
+      },
+      "properties": {
+        "address": "1735 Artesia Blvd, Gardena, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.294868,
+          33.873666
+        ]
+      },
+      "properties": {
+        "address": "1299 Artesia Blvd, Gardena, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.244713,
+          34.154975
+        ]
+      },
+      "properties": {
+        "address": "561 N Glendale Ave, Glendale, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.258601,
+          34.129435
+        ]
+      },
+      "properties": {
+        "address": "311 W Los Feliz Rd, Glendale, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.865026,
+          34.130068
+        ]
+      },
+      "properties": {
+        "address": "133 W Rte 66, Glendora, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.790463,
+          34.437709
+        ]
+      },
+      "properties": {
+        "address": "163 S Turnpike Rd, Goleta, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.967276,
+          33.994971
+        ]
+      },
+      "properties": {
+        "address": "2122 S Hacienda Blvd, Hacienda Heights, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436196,
+          37.469211
+        ]
+      },
+      "properties": {
+        "address": "70 Cabrillo Hwy, Half Moon Bay, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.366497,
+          33.89936
+        ]
+      },
+      "properties": {
+        "address": "14500 Ocean Gate Ave, Hawthorne, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.09627,
+          37.63243
+        ]
+      },
+      "properties": {
+        "address": "27300 Hesperian Blvd, Hayward, CA",
+        "performer": "FoodMaxx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.083478,
+          37.679797
+        ]
+      },
+      "properties": {
+        "address": "22280 Foothill Blvd, Hayward, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.091467,
+          37.652712
+        ]
+      },
+      "properties": {
+        "address": "231 W Jackson St, Hayward, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.872981,
+          38.608398
+        ]
+      },
+      "properties": {
+        "address": "1115 Vine St, Healdsburg, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.020873,
+          33.745428
+        ]
+      },
+      "properties": {
+        "address": "4602 W Florida Ave, Hemet, CA",
+        "performer": "WinCo Foods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.271647,
+          38.014788
+        ]
+      },
+      "properties": {
+        "address": "4080 San Pablo Ave, Hercules, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.394415,
+          33.865877
+        ]
+      },
+      "properties": {
+        "address": "715 Pier Ave, Hermosa Beach, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.026751,
+          33.728902
+        ]
+      },
+      "properties": {
+        "address": "5922 Edinger Ave, Huntington Beach, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.002781,
+          33.680886
+        ]
+      },
+      "properties": {
+        "address": "7201 Yorktown Ave, Huntington Beach, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.986951,
+          33.677284
+        ]
+      },
+      "properties": {
+        "address": "19640 Beach Blvd, Huntington Beach, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.229637,
+          33.975668
+        ]
+      },
+      "properties": {
+        "address": "6920 Santa Fe Ave, Huntington Park, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.328113,
+          33.944233
+        ]
+      },
+      "properties": {
+        "address": "3200 W Century Blvd, Inglewood, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.349184,
+          33.960262
+        ]
+      },
+      "properties": {
+        "address": "500 E Manchester Blvd, Inglewood, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.765374,
+          33.695294
+        ]
+      },
+      "properties": {
+        "address": "14201 Jeffrey Rd, Irvine, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.831352,
+          33.650147
+        ]
+      },
+      "properties": {
+        "address": "4541 Campus Dr, Irvine, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.778291,
+          33.655806
+        ]
+      },
+      "properties": {
+        "address": "6601 Quail Hill Pkwy, Irvine, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.799819,
+          38.368278
+        ]
+      },
+      "properties": {
+        "address": "12110 Industry Blvd, Jackson, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.250195,
+          34.23114
+        ]
+      },
+      "properties": {
+        "address": "3233 Foothill Blvd, La Crescenta-Montrose, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.966361,
+          33.938533
+        ]
+      },
+      "properties": {
+        "address": "1800 W Whittier Blvd, La Habra, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.005438,
+          32.786265
+        ]
+      },
+      "properties": {
+        "address": "8920 Fletcher Pkwy, La Mesa, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.944488,
+          34.052159
+        ]
+      },
+      "properties": {
+        "address": "1821 N Hacienda Blvd, La Puente, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.773145,
+          34.114612
+        ]
+      },
+      "properties": {
+        "address": "1600 Foothill Blvd, La Verne, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.64619,
+          33.56359
+        ]
+      },
+      "properties": {
+        "address": "27702 Crown Valley Pkwy B, Ladera Ranch, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.687942,
+          33.523915
+        ]
+      },
+      "properties": {
+        "address": "30241 Golden Lantern, Laguna Niguel, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.366955,
+          33.686092
+        ]
+      },
+      "properties": {
+        "address": "30901 Riverside Dr, Lake Elsinore, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.115257,
+          33.835491
+        ]
+      },
+      "properties": {
+        "address": "4226 Woodruff Ave, Lakewood, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.115377,
+          33.856914
+        ]
+      },
+      "properties": {
+        "address": "5500 Woodruff Ave, Lakewood, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.152272,
+          33.858841
+        ]
+      },
+      "properties": {
+        "address": "3400 E South St, Lakewood, CA",
+        "performer": "WinCo Foods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.777421,
+          37.680436
+        ]
+      },
+      "properties": {
+        "address": "1554 First St, Livermore, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.743056,
+          37.69597
+        ]
+      },
+      "properties": {
+        "address": "4495 First St, Livermore, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.137526,
+          33.791514
+        ]
+      },
+      "properties": {
+        "address": "1800-2000 Ximeno Ave, Long Beach, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.154142,
+          33.781161
+        ]
+      },
+      "properties": {
+        "address": "3210 E Anaheim St, Long Beach, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.192168,
+          33.805474
+        ]
+      },
+      "properties": {
+        "address": "101 E Willow St, Long Beach, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.11898,
+          37.379008
+        ]
+      },
+      "properties": {
+        "address": "160 1st St, Los Altos, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.309887,
+          33.764832
+        ]
+      },
+      "properties": {
+        "address": "28090 S Western Ave, Los Angeles, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.417588,
+          34.243857
+        ]
+      },
+      "properties": {
+        "address": "9635 Laurel Canyon Blvd, Los Angeles, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.200119,
+          34.105292
+        ]
+      },
+      "properties": {
+        "address": "5100 N Figueroa St, Los Angeles, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.29094,
+          34.069997
+        ]
+      },
+      "properties": {
+        "address": "3461 W 3rd St, Los Angeles, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.494186,
+          34.200707
+        ]
+      },
+      "properties": {
+        "address": "16530 Sherman Way, Los Angeles, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.310578,
+          33.929381
+        ]
+      },
+      "properties": {
+        "address": "11507 S Western Ave, Los Angeles, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.237897,
+          33.925697
+        ]
+      },
+      "properties": {
+        "address": "11840 Wilmington Ave, Los Angeles, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.265544,
+          33.778677
+        ]
+      },
+      "properties": {
+        "address": "336 W Anaheim St, Los Angeles, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.532557,
+          34.192516
+        ]
+      },
+      "properties": {
+        "address": "18318 Vanowen St, Los Angeles, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.389747,
+          34.216295
+        ]
+      },
+      "properties": {
+        "address": "8035 Webb Ave, Los Angeles, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.310943,
+          33.987602
+        ]
+      },
+      "properties": {
+        "address": "1820 W Slauson Ave, Los Angeles, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.485559,
+          34.228059
+        ]
+      },
+      "properties": {
+        "address": "16208 Parthenia St, Los Angeles, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20571,
+          34.040742
+        ]
+      },
+      "properties": {
+        "address": "2750 1st St, Los Angeles, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.288017,
+          34.096973
+        ]
+      },
+      "properties": {
+        "address": "4520 W Sunset Blvd, Los Angeles, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.45664,
+          34.153346
+        ]
+      },
+      "properties": {
+        "address": "14845 Ventura Blvd, Los Angeles, CA",
+        "performer": "Pavilions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242643,
+          34.054908
+        ]
+      },
+      "properties": {
+        "address": "Los Angeles, Los Angeles, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.641361,
+          34.189528
+        ]
+      },
+      "properties": {
+        "address": "6534 Platt Ave, Los Angeles, CA",
+        "performer": "Pavilions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.301192,
+          34.259166
+        ]
+      },
+      "properties": {
+        "address": "7789 Foothill Blvd, Los Angeles, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.498896,
+          34.270979
+        ]
+      },
+      "properties": {
+        "address": "16830 San Fernando Mission Blvd, Los Angeles, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.189517,
+          34.135938
+        ]
+      },
+      "properties": {
+        "address": "7311 N Figueroa St, Los Angeles, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.389747,
+          34.216295
+        ]
+      },
+      "properties": {
+        "address": "8035 Webb Ave, Los Angeles, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.979037,
+          37.231411
+        ]
+      },
+      "properties": {
+        "address": "470 N Santa Cruz Ave, Los Gatos, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.932645,
+          37.242423
+        ]
+      },
+      "properties": {
+        "address": "15549 Union Ave, Los Gatos, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.21884,
+          37.786734
+        ]
+      },
+      "properties": {
+        "address": "1187 S Main St, Manteca, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.439795,
+          33.985204
+        ]
+      },
+      "properties": {
+        "address": "4365 Glencoe Ave, Marina del Rey, CA",
+        "performer": "Pavilions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.093952,
+          37.957912
+        ]
+      },
+      "properties": {
+        "address": "6688 Alhambra Ave, Martinez, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.17904,
+          37.450516
+        ]
+      },
+      "properties": {
+        "address": "525 El Camino Real, Menlo Park, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39425,
+          37.603383
+        ]
+      },
+      "properties": {
+        "address": "525 El Camino Real, Millbrae, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.898002,
+          37.435063
+        ]
+      },
+      "properties": {
+        "address": "555 E Calaveras Blvd, Milpitas, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.636056,
+          33.627561
+        ]
+      },
+      "properties": {
+        "address": "23072 Alicia Pkwy, Mission Viejo, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.65751,
+          33.586008
+        ]
+      },
+      "properties": {
+        "address": "26022 Marguerite Pkwy, Mission Viejo, CA",
+        "performer": "Pavilions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.002033,
+          34.149986
+        ]
+      },
+      "properties": {
+        "address": "130 W Foothill Blvd, Monrovia, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1226,
+          34.031175
+        ]
+      },
+      "properties": {
+        "address": "2469 Via Campo, Montebello, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.128386,
+          37.83631
+        ]
+      },
+      "properties": {
+        "address": "1355 Moraga Way, Moraga, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.274744,
+          33.933737
+        ]
+      },
+      "properties": {
+        "address": "12880 Day St, Moreno Valley, CA",
+        "performer": "WinCo Foods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.639184,
+          37.112799
+        ]
+      },
+      "properties": {
+        "address": "235 Tennant Station, Morgan Hill, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.636579,
+          37.128822
+        ]
+      },
+      "properties": {
+        "address": "840 E Dunne Ave, Morgan Hill, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.111348,
+          37.402619
+        ]
+      },
+      "properties": {
+        "address": "645 San Antonio Rd, Mountain View, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.088472,
+          37.372314
+        ]
+      },
+      "properties": {
+        "address": "1750 Miramonte Ave, Mountain View, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.079401,
+          37.402989
+        ]
+      },
+      "properties": {
+        "address": "570 N Shoreline Blvd, Mountain View, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.138952,
+          33.550879
+        ]
+      },
+      "properties": {
+        "address": "39140 Winchester Rd, Murrieta, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.203647,
+          33.567057
+        ]
+      },
+      "properties": {
+        "address": "41000 California Oaks Rd, Murrieta, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.827839,
+          33.606778
+        ]
+      },
+      "properties": {
+        "address": "21181 Newport Coast Dr, Newport Beach, CA",
+        "performer": "Pavilions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.532091,
+          38.062346
+        ]
+      },
+      "properties": {
+        "address": "5720 Nave Dr, Novato, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.230647,
+          37.775728
+        ]
+      },
+      "properties": {
+        "address": "3000 E 9th St, Oakland, CA",
+        "performer": "FoodMaxx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.249104,
+          37.834833
+        ]
+      },
+      "properties": {
+        "address": "5100 Broadway, Oakland, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.181974,
+          37.797958
+        ]
+      },
+      "properties": {
+        "address": "4100 Redwood Rd, Oakland, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.252006,
+          37.850756
+        ]
+      },
+      "properties": {
+        "address": "6310 College Ave, Oakland, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.296452,
+          33.179556
+        ]
+      },
+      "properties": {
+        "address": "3450 Marron Rd, Oceanside, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.287267,
+          33.207716
+        ]
+      },
+      "properties": {
+        "address": "4150 Oceanside Blvd, Oceanside, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.294665,
+          33.241118
+        ]
+      },
+      "properties": {
+        "address": "845 College Blvd, Oceanside, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.330016,
+          33.185707
+        ]
+      },
+      "properties": {
+        "address": "2245 S El Camino Real, Oceanside, CA",
+        "performer": "WinCo Foods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.652835,
+          34.032611
+        ]
+      },
+      "properties": {
+        "address": "2246 S Euclid Ave, Ontario, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.837555,
+          33.83384
+        ]
+      },
+      "properties": {
+        "address": "2684 N Tustin St, Orange, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.233823,
+          38.679879
+        ]
+      },
+      "properties": {
+        "address": "8701 Greenback Ln, Orangevale, CA",
+        "performer": "WinCo Foods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.161778,
+          34.221833
+        ]
+      },
+      "properties": {
+        "address": "2101 N Rose Ave, Oxnard, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.503681,
+          37.594446
+        ]
+      },
+      "properties": {
+        "address": "1380 Linda Mar Shopping Center, Pacifica, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477594,
+          37.66101
+        ]
+      },
+      "properties": {
+        "address": "709 Hickey Blvd, Pacifica, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.102209,
+          34.147791
+        ]
+      },
+      "properties": {
+        "address": "2355 E Colorado Blvd, Pasadena, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.638885,
+          38.269567
+        ]
+      },
+      "properties": {
+        "address": "701 Sonoma Mountain Pkwy, Petaluma, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.621917,
+          38.249127
+        ]
+      },
+      "properties": {
+        "address": "389 S McDowell Blvd, Petaluma, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.838933,
+          38.713293
+        ]
+      },
+      "properties": {
+        "address": "3955 Missouri Flat Rd, Placerville, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.072346,
+          37.934251
+        ]
+      },
+      "properties": {
+        "address": "600 Patterson Blvd, Pleasant Hill, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.058221,
+          37.948412
+        ]
+      },
+      "properties": {
+        "address": "1978 Contra Costa Blvd, Pleasant Hill, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.06155,
+          37.971259
+        ]
+      },
+      "properties": {
+        "address": "707 Contra Costa Blvd, Pleasant Hill, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.874584,
+          37.674918
+        ]
+      },
+      "properties": {
+        "address": "1701 Santa Rita Rd, Pleasanton, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.761537,
+          34.026305
+        ]
+      },
+      "properties": {
+        "address": "90 Rio Rancho Rd, Pomona, CA",
+        "performer": "WinCo Foods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.293151,
+          38.595276
+        ]
+      },
+      "properties": {
+        "address": "10635 Folsom Blvd, Rancho Cordova, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.557197,
+          34.135595
+        ]
+      },
+      "properties": {
+        "address": "11358 Kenyon Way, Rancho Cucamonga, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.171346,
+          34.048475
+        ]
+      },
+      "properties": {
+        "address": "450 E Cypress Ave, Redlands, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.362448,
+          33.893034
+        ]
+      },
+      "properties": {
+        "address": "4001 Inglewood Ave, Redondo Beach, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.436357,
+          33.90996
+        ]
+      },
+      "properties": {
+        "address": "2975 Van Buren Boulevard, Riverside, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.38951,
+          33.954898
+        ]
+      },
+      "properties": {
+        "address": "3520 Riverside Plaza Dr, Riverside, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.274292,
+          38.802919
+        ]
+      },
+      "properties": {
+        "address": "2220 Sunset Blvd, Rocklin, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.708431,
+          38.347565
+        ]
+      },
+      "properties": {
+        "address": "6340 Commerce Blvd, Rohnert Park, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.377878,
+          33.775415
+        ]
+      },
+      "properties": {
+        "address": "7 Peninsula Center, Rolling Hills Estates, CA",
+        "performer": "Pavilions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.228475,
+          38.741904
+        ]
+      },
+      "properties": {
+        "address": "8640 Sierra College Blvd, Roseville, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29147,
+          38.776841
+        ]
+      },
+      "properties": {
+        "address": "1080 Pleasant Grove Blvd, Roseville, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.271041,
+          38.731073
+        ]
+      },
+      "properties": {
+        "address": "989 Sunrise Ave, Roseville, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.330462,
+          38.794558
+        ]
+      },
+      "properties": {
+        "address": "9045 Woodcreek Oaks Blvd, Roseville, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.486231,
+          38.567901
+        ]
+      },
+      "properties": {
+        "address": "1814 19th St, Sacramento, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.464928,
+          38.571615
+        ]
+      },
+      "properties": {
+        "address": "1025 Alhambra Blvd, Sacramento, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.386859,
+          38.594476
+        ]
+      },
+      "properties": {
+        "address": "3320 Arden Wy, Sacramento, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.370066,
+          38.453463
+        ]
+      },
+      "properties": {
+        "address": "8377 Elk Grove Florin Rd, Sacramento, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.33942,
+          38.686426
+        ]
+      },
+      "properties": {
+        "address": "5345 Elkhorn Blvd, Sacramento, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.380785,
+          38.60725
+        ]
+      },
+      "properties": {
+        "address": "2300 Watt Ave, Sacramento, CA",
+        "performer": "WinCo Foods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.524711,
+          38.657437
+        ]
+      },
+      "properties": {
+        "address": "2851 Del Paso Rd, Sacramento, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.564229,
+          37.980715
+        ]
+      },
+      "properties": {
+        "address": "838 Sir Francis Drake Blvd, San Anselmo, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.613871,
+          33.442699
+        ]
+      },
+      "properties": {
+        "address": "804 Avenida Pico, San Clemente, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.603326,
+          33.456798
+        ]
+      },
+      "properties": {
+        "address": "989 Avenida Pico, San Clemente, CA",
+        "performer": "Pavilions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.034721,
+          32.583117
+        ]
+      },
+      "properties": {
+        "address": "620 Dennery Rd, San Diego, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.072203,
+          33.021089
+        ]
+      },
+      "properties": {
+        "address": "11986 Bernardo Plaza Dr, San Diego, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.065021,
+          32.761094
+        ]
+      },
+      "properties": {
+        "address": "6155 El Cajon Blvd, San Diego, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.144766,
+          32.915239
+        ]
+      },
+      "properties": {
+        "address": "8310 Mira Mesa Blvd, San Diego, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.160023,
+          32.749735
+        ]
+      },
+      "properties": {
+        "address": "515 Washington St, San Diego, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.061663,
+          33.017604
+        ]
+      },
+      "properties": {
+        "address": "12475 Rancho Bernardo Rd, San Diego, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.273582,
+          32.841687
+        ]
+      },
+      "properties": {
+        "address": "7544 Girard Ave, San Diego, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.012834,
+          32.801834
+        ]
+      },
+      "properties": {
+        "address": "8650 Lake Murray Blvd, San Diego, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.130004,
+          32.753133
+        ]
+      },
+      "properties": {
+        "address": "4145 30th St, San Diego, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.204912,
+          32.8302
+        ]
+      },
+      "properties": {
+        "address": "4725 Clairemont Dr, San Diego, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11664,
+          32.807311
+        ]
+      },
+      "properties": {
+        "address": "3550 Murphy Canyon Rd, San Diego, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.098516,
+          32.935507
+        ]
+      },
+      "properties": {
+        "address": "10675 Scripps Poway Pkwy, San Diego, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.153589,
+          32.960922
+        ]
+      },
+      "properties": {
+        "address": "7895 Highlands Village Pl, San Diego, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.803822,
+          34.105936
+        ]
+      },
+      "properties": {
+        "address": "220 E Bonita Ave, San Dimas, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.465389,
+          37.774553
+        ]
+      },
+      "properties": {
+        "address": "735 7th Ave, San Francisco, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.509428,
+          37.772584
+        ]
+      },
+      "properties": {
+        "address": "850 La Playa St, San Francisco, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439074,
+          37.743586
+        ]
+      },
+      "properties": {
+        "address": "5290 Diamond Heights Blvd, San Francisco, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.829321,
+          37.38095
+        ]
+      },
+      "properties": {
+        "address": "3457 McKee Rd, San Jose, CA",
+        "performer": "Lucky"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.802963,
+          37.246492
+        ]
+      },
+      "properties": {
+        "address": "5760 Cottle Rd, San Jose, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.908286,
+          37.253045
+        ]
+      },
+      "properties": {
+        "address": "1663 Branham Ln, San Jose, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.874406,
+          37.259967
+        ]
+      },
+      "properties": {
+        "address": "4950 Almaden Expy, San Jose, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.833892,
+          37.26741
+        ]
+      },
+      "properties": {
+        "address": "179 Branham Ln, San Jose, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.911197,
+          37.293191
+        ]
+      },
+      "properties": {
+        "address": "1530 Hamilton Ave, San Jose, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.995112,
+          37.322137
+        ]
+      },
+      "properties": {
+        "address": "5146 Stevens Creek Blvd, San Jose, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.011818,
+          37.30966
+        ]
+      },
+      "properties": {
+        "address": "6150 Bollinger Rd, San Jose, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.138634,
+          37.688412
+        ]
+      },
+      "properties": {
+        "address": "699 Lewelling Blvd, San Leandro, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.176288,
+          33.13506
+        ]
+      },
+      "properties": {
+        "address": "555 Grand Ave, San Marcos, CA",
+        "performer": "WinCo Foods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.138424,
+          33.140048
+        ]
+      },
+      "properties": {
+        "address": "151 Woodland Pkwy, San Marcos, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.210959,
+          33.131915
+        ]
+      },
+      "properties": {
+        "address": "1929 W San Marcos Blvd, San Marcos, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.200294,
+          33.097008
+        ]
+      },
+      "properties": {
+        "address": "1571 San Elijo Rd, San Marcos, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337787,
+          37.520829
+        ]
+      },
+      "properties": {
+        "address": "100 De Anza Blvd, San Mateo, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.313498,
+          37.553274
+        ]
+      },
+      "properties": {
+        "address": "1655 S El Camino Real, San Mateo, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.921901,
+          37.774169
+        ]
+      },
+      "properties": {
+        "address": "11060 Bollinger Canyon Rd, San Ramon, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.886562,
+          33.718124
+        ]
+      },
+      "properties": {
+        "address": "2140 S Bristol St, Santa Ana, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.886432,
+          33.698986
+        ]
+      },
+      "properties": {
+        "address": "3650 S Bristol St, Santa Ana, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.556635,
+          34.462085
+        ]
+      },
+      "properties": {
+        "address": "23850 Copper Hill Dr, Santa Clarita, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.512124,
+          34.444093
+        ]
+      },
+      "properties": {
+        "address": "27631 Bouquet Canyon Rd, Santa Clarita, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.55765,
+          34.377474
+        ]
+      },
+      "properties": {
+        "address": "24160 Lyons Ave, Santa Clarita, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.535202,
+          34.427021
+        ]
+      },
+      "properties": {
+        "address": "26518 Bouquet Canyon Rd, Santa Clarita, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.470885,
+          34.414088
+        ]
+      },
+      "properties": {
+        "address": "19200 Soledad Canyon Rd, Santa Clarita, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.470885,
+          34.414088
+        ]
+      },
+      "properties": {
+        "address": "19200 Soledad Canyon Rd, Santa Clarita, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.045212,
+          36.961358
+        ]
+      },
+      "properties": {
+        "address": "2203 Mission St, Santa Cruz, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.081356,
+          34.344427
+        ]
+      },
+      "properties": {
+        "address": "576 W Main St, Santa Paula, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.752896,
+          38.452054
+        ]
+      },
+      "properties": {
+        "address": "1799 Marlow Rd, Santa Rosa, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.651675,
+          38.465677
+        ]
+      },
+      "properties": {
+        "address": "100 Calistoga Rd, Santa Rosa, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.717079,
+          38.462826
+        ]
+      },
+      "properties": {
+        "address": "2300 Mendocino Ave, Santa Rosa, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.691042,
+          38.450908
+        ]
+      },
+      "properties": {
+        "address": "2751 4th St, Santa Rosa, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.742122,
+          38.426913
+        ]
+      },
+      "properties": {
+        "address": "2055 Sebastopol Rd, Santa Rosa, CA",
+        "performer": "FoodMaxx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.741605,
+          38.446762
+        ]
+      },
+      "properties": {
+        "address": "1211 W College Ave, Santa Rosa, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.668538,
+          38.425738
+        ]
+      },
+      "properties": {
+        "address": "2785 Yulupa Ave, Santa Rosa, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.031092,
+          37.281232
+        ]
+      },
+      "properties": {
+        "address": "12876 Saratoga Sunnyvale Rd, Saratoga, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.031092,
+          37.046236
+        ]
+      },
+      "properties": {
+        "address": "253 Mt Hermon Rd, Scotts Valley, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.827055,
+          38.404452
+        ]
+      },
+      "properties": {
+        "address": "406 N Main St, Sebastopol, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.794673,
+          34.261686
+        ]
+      },
+      "properties": {
+        "address": "1268 Madera Rd, Simi Valley, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.762461,
+          34.280015
+        ]
+      },
+      "properties": {
+        "address": "1855 Cochran St, Simi Valley, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.715609,
+          34.288564
+        ]
+      },
+      "properties": {
+        "address": "2938 Tapo Canyon Rd, Simi Valley, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.467712,
+          38.291594
+        ]
+      },
+      "properties": {
+        "address": "477 W Napa St, Sonoma, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431732,
+          37.655552
+        ]
+      },
+      "properties": {
+        "address": "30 Chestnut Ave, South San Francisco, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451995,
+          37.646653
+        ]
+      },
+      "properties": {
+        "address": "2255 Gellert Blvd, South San Francisco, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.008604,
+          32.70822
+        ]
+      },
+      "properties": {
+        "address": "543 Sweetwater Rd, Spring Valley, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.572093,
+          34.391195
+        ]
+      },
+      "properties": {
+        "address": "25850 The Old Rd, Stevenson Ranch, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.31211,
+          37.988178
+        ]
+      },
+      "properties": {
+        "address": "6445 Pacific Ave, Stockton, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.337541,
+          37.96232
+        ]
+      },
+      "properties": {
+        "address": "2808 Country Club Blvd, Stockton, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.058087,
+          37.372968
+        ]
+      },
+      "properties": {
+        "address": "639 S Bernardo Ave, Sunnyvale, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.030648,
+          37.364364
+        ]
+      },
+      "properties": {
+        "address": "150 E El Camino Real, Sunnyvale, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.154063,
+          33.530627
+        ]
+      },
+      "properties": {
+        "address": "40435 Winchester Rd, Temecula, CA",
+        "performer": "WinCo Foods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.840837,
+          34.209986
+        ]
+      },
+      "properties": {
+        "address": "2048 E Avenida de Los Arboles, Thousand Oaks, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.363515,
+          33.837749
+        ]
+      },
+      "properties": {
+        "address": "4705 Torrance Blvd, Torrance, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.330463,
+          33.804994
+        ]
+      },
+      "properties": {
+        "address": "24325 Crenshaw Blvd, Torrance, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.449367,
+          37.740083
+        ]
+      },
+      "properties": {
+        "address": "1801 W 11th St, Tracy, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.468482,
+          37.758968
+        ]
+      },
+      "properties": {
+        "address": "2850 Pavilion Pkwy, Tracy, CA",
+        "performer": "WinCo Foods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.812844,
+          33.745205
+        ]
+      },
+      "properties": {
+        "address": "13270 Newport Ave, Tustin, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.019368,
+          37.587628
+        ]
+      },
+      "properties": {
+        "address": "1790 Decoto Rd, Union City, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.637641,
+          34.131185
+        ]
+      },
+      "properties": {
+        "address": "1910 N Campus Ave, Upland, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.65355,
+          34.107337
+        ]
+      },
+      "properties": {
+        "address": "101 W Foothill Blvd, Upland, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.961594,
+          38.362038
+        ]
+      },
+      "properties": {
+        "address": "2090 Harbison Dr, Vacaville, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.210165,
+          38.084509
+        ]
+      },
+      "properties": {
+        "address": "122 Robles Way, Vallejo, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.224344,
+          33.218266
+        ]
+      },
+      "properties": {
+        "address": "1301 E Vista Way, Vista, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.247403,
+          33.165953
+        ]
+      },
+      "properties": {
+        "address": "1601 S Melrose Dr, Vista, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01768,
+          37.927531
+        ]
+      },
+      "properties": {
+        "address": "2800 Ygnacio Valley Rd, Walnut Creek, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.909338,
+          34.081656
+        ]
+      },
+      "properties": {
+        "address": "615 N Azusa Ave, West Covina, CA",
+        "performer": "Food 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.38697,
+          34.083533
+        ]
+      },
+      "properties": {
+        "address": "8969 Santa Monica Blvd, West Hollywood, CA",
+        "performer": "Pavilions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.008912,
+          33.76046
+        ]
+      },
+      "properties": {
+        "address": "6755 Westminster Blvd., Westminster, CA",
+        "performer": "Albertsons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.994363,
+          33.940954
+        ]
+      },
+      "properties": {
+        "address": "15740 La Forge St, Whittier, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80651,
+          38.551655
+        ]
+      },
+      "properties": {
+        "address": "9080 Brooks Rd S, Windsor, CA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.775726,
+          33.893294
+        ]
+      },
+      "properties": {
+        "address": "20445 Yorba Linda Blvd, Yorba Linda, CA",
+        "performer": "Vons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.070076,
+          34.035368
+        ]
+      },
+      "properties": {
+        "address": "33644 Yucaipa Blvd, Yucaipa, CA",
+        "performer": "Vons"
+      }
+    }
+  ]
+}

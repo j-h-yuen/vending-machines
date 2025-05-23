@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Pokemon Restock Schedule</title>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" rel="stylesheet">
+<link href="leaflet-locatecontrol-gh-pages\dist\L.Control.Locate.mapbox.css" rel="stylesheet"/>
+<link href="style.css" rel="stylesheet">
+
+
+</link></link></head>
+<body>
+<div id="intro-overlay">
+<div class="intro-content">
+<h2>Welcome</h2>
+<p>This map was created with malicious intent.</p>
+<p>It shows vendor routes, scalping routes, and every machine location.</p>
+<button id="enter-map">Enter Map</button>
+</div>
+</div>
+<div class="header">
+<div class="logo-title">
+<img alt="Logo" class="logo-img" src="profile.png"/>
+<div class="title-block">
+<div class="title">California PokéScalpers</div>
+<div class="subtitle">By Jason Yuen</div>
+</div>
+</div>
+<div class="tabs">
+<div class="tab-buttons">
+<button class="tab-button" data-map="map-Monday">MONDAY</button>
+<button class="tab-button" data-map="map-Tuesday">TUESDAY</button>
+<button class="tab-button" data-map="map-Wednesday">WEDNESDAY</button>
+<button class="tab-button" data-map="map-Thursday">THURSDAY</button>
+<button class="tab-button" data-map="map-Friday">FRIDAY</button>
+<span class="tab-divider">|</span>
+<button class="tab-button active" data-map="map-California">CALIFORNIA</button>
+</div>
+<select class="tab-dropdown">
+<option value="map-Monday">MONDAY</option>
+<option value="map-Tuesday">TUESDAY</option>
+<option value="map-Wednesday">WEDNESDAY</option>
+<option value="map-Thursday">THURSDAY</option>
+<option value="map-Friday">FRIDAY</option>
+<option selected="" value="map-California">CALIFORNIA</option>
+</select>
+</div>
+</div>
+<div class="map-container" id="map-Monday"></div>
+<div class="map-container" id="map-Tuesday"></div>
+<div class="map-container" id="map-Wednesday"></div>
+<div class="map-container" id="map-Thursday"></div>
+<div class="map-container" id="map-Friday"></div>
+<div class="map-container active" id="map-California"></div>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+<script src="leaflet-locatecontrol-gh-pages\dist\L.Control.Locate.min.js"></script>
+<script src="javascript/californiaMap.js"></script>
+<script src="javascript/bayAreaWeekly.js"></script>
+
+
+<script src="javascript/intro.js"></script></body>
+</html>
