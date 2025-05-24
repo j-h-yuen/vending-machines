@@ -6,3 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 });
+
+// document represents web page - attaches event lister - "DOMContentLoaded" event name () => { ... } - arrow function, when this event happens, run this code
+// variable is equal to ElementID named "enter-map" (button)
+// if button clicked , finds "intro-overlay" and changes inline style to "none" hiding it 
