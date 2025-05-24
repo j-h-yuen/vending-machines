@@ -1,12 +1,58 @@
 body { font-family: "Montserrat", sans-serif; margin: 0; }
 
+/* controls the intro blur, the text, and the button */
+#intro-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  backdrop-filter: blur(8px);
+  background-color: rgba(255, 255, 255, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+.intro-content {
+  text-align: center;
+  padding: 30px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  font-family: "Montserrat", sans-serif;
+}
+.intro-content h2 {
+  font-size: 1.8em;
+  margin-bottom: 0.5em;
+}
+.intro-content p {
+  margin: 0.5em 0;
+  color: #333;
+  font-size: 1em;
+}
+  #enter-map {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1em;
+    font-weight: bold;
+    background: #444;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  #enter-map:hover {
+    background: #222;
+  }
+
+/* controls the tabs at the top */
 .tabs {
   display: flex;
   justify-content: flex-end;
   background: #f0f0f0;
   padding: 10px;
 }
-
 .tab-button {
   font-family: "Montserrat", sans-serif;
   margin-left: 10px;
@@ -17,18 +63,18 @@ body { font-family: "Montserrat", sans-serif; margin: 0; }
   border-radius: 5px;
   font-weight: bold;
 }
-
 .tab-button.active { background: #bbb; }
 
+/* controls the map container */
 .map-container {
   display: none;
   height: 90vh;
 }
-
 .map-container.active {
   display: block;
 }
 
+/* controls the heading */
 .header {
   display: flex;
   justify-content: space-between;
@@ -36,7 +82,6 @@ body { font-family: "Montserrat", sans-serif; margin: 0; }
   background: #f0f0f0;
   padding: 10px;
 }
-
 .title {
   font-size: 1.8em;
   font-weight: bold;
@@ -44,31 +89,28 @@ body { font-family: "Montserrat", sans-serif; margin: 0; }
   font-family: "Montserrat", sans-serif;
   text-align: left;
 }
-
 .logo-title {
   display: flex;
   align-items: center;
   gap: 12px;
 }
-
 .logo-img {
   height: 48px;
   width: 48px;
   border-radius: 50%;
 }
-
 .title-block {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
 }
-
 .subtitle {
   font-size: 0.9em;
   color: #666;
   margin-top: 2px;
 }
 
+/* targetting the content inside leaflet popup */
 .leaflet-popup-content {
   font-family: "Montserrat", sans-serif;
   font-size: 12px;
@@ -76,11 +118,13 @@ body { font-family: "Montserrat", sans-serif; margin: 0; }
   line-height: 1.4;
 }
 
+/* targetting the buttons browser */
 .tab-buttons {
   display: flex;
   gap: 10px;
 }
 
+/* targetting the buttons phone */
 .tab-dropdown {
   display: none;
   padding: 10px;
@@ -88,7 +132,7 @@ body { font-family: "Montserrat", sans-serif; margin: 0; }
   font-size: 1em;
 }
 
-/* On small screens */
+/* on small screens */
 @media (max-width: 600px) {
   .header {
     flex-direction: column;
@@ -134,73 +178,19 @@ body { font-family: "Montserrat", sans-serif; margin: 0; }
 }
 
 /* Extracted from index.html */
-
     .tab-divider {
       margin: 0 10px;
       color: #aaa;
       font-weight: bold;
       align-self: center;
     }
-
     .tab-button[data-map="map-California"] {
       background-color: #eee;
       border: 1px solid #ccc;
       color: #333;
     }
-
     .tab-button.active[data-map="map-California"] {
       background-color: #ccc;
     }
-  
 
-
-  #intro-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    backdrop-filter: blur(8px);
-    background-color: rgba(255, 255, 255, 0.85);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 9999;
-  }
-
-  .intro-content {
-    text-align: center;
-    padding: 30px;
-    background: white;
-    border-radius: 12px;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
-    font-family: "Montserrat", sans-serif;
-  }
-
-  .intro-content h2 {
-    font-size: 1.8em;
-    margin-bottom: 0.5em;
-  }
-
-  .intro-content p {
-    margin: 0.5em 0;
-    color: #333;
-    font-size: 1em;
-  }
-
-  #enter-map {
-    margin-top: 20px;
-    padding: 10px 20px;
-    font-size: 1em;
-    font-weight: bold;
-    background: #444;
-    color: white;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-  }
-
-  #enter-map:hover {
-    background: #222;
-  }
   
