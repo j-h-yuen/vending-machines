@@ -1,76 +1,99 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>Pokemon Restock Schedule</title>
+<title>California PokéScalpers</title>
+<!-- contains css for font -->
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&amp;display=swap" rel="stylesheet"/>
 <!-- contains css for leaflet map -->
 <link href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" rel="stylesheet">
-<link href="leaflet-locatecontrol-gh-pages\dist\L.Control.Locate.mapbox.css" rel="stylesheet"/>
+<!-- contains css for leaflet locate  -->
+<link href="external/leaflet-locatecontrol-gh-pages\dist\L.Control.Locate.mapbox.css" rel="stylesheet"/>
+<!-- contains css for most of body -->
 <link href="style.css" rel="stylesheet">
-
 
 </head>
 <body>
+<!-- intro overlay - the initial blur -->
 <div id="intro-overlay">
-<div class="intro-content">
-<h2>Welcome</h2>
-<p>This map was created with malicious intent.</p>
-<p>It shows vendor routes, scalping routes, and every machine location.</p>
-<button id="enter-map">Enter Map</button>
-</div>
+    <div class="intro-content">
+        <h2>Welcome</h2>
+        <p>This map was created with malicious intent.</p>
+        <p>It shows vendor routes, scalping routes, and every machine location.</p>
+        <button id="intro-enter-map">Enter Map</button>
+    </div>
 </div>
 
 <!-- div for header -->
 <div class="header">
-<div class="logo-title">
-<img alt="Logo" class="logo-img" src="images/profile.png"/>
-<div class="title-block">
-    <div class="title">California PokéScalpers</div>
-    <div class="subtitle">By Jason Yuen</div>
-</div>
-</div>
+    <div class="logo-title">
+    <img alt="Logo" class="logo-img" src="images/profile.png"/>
+    <div class="title-block">
+        <div class="title">California PokéScalpers</div>
+        <div class="subtitle">By Jason Yuen</div>
+    </div>
+    </div>
 
-<div class="tabs">
-    <!-- for computer -->
+    <div class="tabs"> <!-- tabs -->
     <div class="tab-buttons">
-        <button class="tab-button" data-map="map-Monday">MONDAY</button>
-        <button class="tab-button" data-map="map-Tuesday">TUESDAY</button>
-        <button class="tab-button" data-map="map-Wednesday">WEDNESDAY</button>
-        <button class="tab-button" data-map="map-Thursday">THURSDAY</button>
-        <button class="tab-button" data-map="map-Friday">FRIDAY</button>
+        <select class="tab-dropdown-pc-sac">
+            <option value="" disabled selected hidden> SACRAMENTO</option>
+            <option value ="sac-Route"> ROUTE </option>
+        </select>
+
+        <select class="tab-dropdown-pc">
+            <option value="" disabled selected hidden>SF BAY AREA</option>
+            <option value="bay-Monday">MONDAY</option>
+            <option value="bay-Tuesday">TUESDAY</option>
+            <option value="bay-Wednesday">WEDNESDAY</option>
+            <option value="bay-Thursday">THURSDAY</option>
+            <option value="bay-Friday">FRIDAY</option>
+        </select>
         <span class="tab-divider">|</span>
         <button class="tab-button active" data-map="map-California">CALIFORNIA</button>
     </div>
-    <!-- for phone -->
-    <select class="tab-dropdown">
-        <option value="map-Monday">MONDAY</option>
-        <option value="map-Tuesday">TUESDAY</option>
-        <option value="map-Wednesday">WEDNESDAY</option>
-        <option value="map-Thursday">THURSDAY</option>
-        <option value="map-Friday">FRIDAY</option>
-        <option selected="" value="map-California">CALIFORNIA</option>
+
+    <button class="tab-button mobile-only" data-map="map-California">CALIFORNIA</button>
+    <select class="tab-dropdown mobile-only">
+        <option value="" disabled selected hidden>SF BAY AREA</option>
+        <option value="bay-Monday">MONDAY</option>
+        <option value="bay-Tuesday">TUESDAY</option>
+        <option value="bay-Wednesday">WEDNESDAY</option>
+        <option value="bay-Thursday">THURSDAY</option>
+        <option value="bay-Friday">FRIDAY</option>
     </select>
-</div>
+
+    <select class="tab-dropdown mobile-only-sac">
+        <option value="" disabled selected hidden>SACRAMENTO</option>
+        <option value="sac-Route">ROUTE</option>
+    </select>   
+
+    </div> <!-- end of tabs -->
 </div> <!-- end of div for header -->
 
-<!-- map containers -->
-<div class="map-container" id="map-Monday"></div>
-<div class="map-container" id="map-Tuesday"></div>
-<div class="map-container" id="map-Wednesday"></div>
-<div class="map-container" id="map-Thursday"></div>
-<div class="map-container" id="map-Friday"></div>
+<!-- map containers for bay area -->
+<div class="map-container" id="bay-Monday"></div>
+<div class="map-container" id="bay-Tuesday"></div>
+<div class="map-container" id="bay-Wednesday"></div>
+<div class="map-container" id="bay-Thursday"></div>
+<div class="map-container" id="bay-Friday"></div>
+
+<!-- map containers for sacramento -->
+<div class="map-container" id="sac-Route"></div>
+
+<!-- map container for california -->
 <div class="map-container active" id="map-California"></div>
 
 <!-- this here contains the javascript for the leaflet map -->
 <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
 <!-- this here contains the javascript for the locate -->
-<script src="leaflet-locatecontrol-gh-pages\dist\L.Control.Locate.min.js"></script>
+<script src="external/leaflet-locatecontrol-gh-pages\dist\L.Control.Locate.min.js"></script>
+
 <script src="javascript/californiaMap.js"></script>
 <script src="javascript/bayAreaWeekly.js"></script>
 
+<script src="javascript/sacramentoRoute.js"></script>
 
 <script src="javascript/intro.js"></script>
 </body>

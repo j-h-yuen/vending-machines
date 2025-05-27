@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.48623099987418,
+          38.567901000175176
+        ]
+      },
+      "properties": {
+        "address": "1814 19th St, Sacramento, CA",
+        "performer": "Safeway",
+        "sequence": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.27104100008802,
+          38.731072999935016
+        ]
+      },
+      "properties": {
+        "address": "989 Sunrise Ave, Roseville, CA",
+        "performer": "Safeway",
+        "sequence": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2284749995949,
+          38.74190399999766
+        ]
+      },
+      "properties": {
+        "address": "8640 Sierra College Blvd, Roseville, CA",
+        "performer": "Safeway",
+        "sequence": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2742920004063,
+          38.80291899992757
+        ]
+      },
+      "properties": {
+        "address": "2220 Sunset Blvd, Rocklin, CA",
+        "performer": "Safeway",
+        "sequence": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2914700002909,
+          38.77684100032006
+        ]
+      },
+      "properties": {
+        "address": "1080 Pleasant Grove Blvd, Roseville, CA",
+        "performer": "Safeway",
+        "sequence": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.33046200042554,
+          38.794558000117526
+        ]
+      },
+      "properties": {
+        "address": "9045 Woodcreek Oaks Blvd, Roseville, CA",
+        "performer": "Safeway",
+        "sequence": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.16410399997088,
+          38.650193000347116
+        ]
+      },
+      "properties": {
+        "address": "1850 Prairie City Rd, Folsom, CA",
+        "performer": "Safeway",
+        "sequence": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.17465899974339,
+          38.65597799994028
+        ]
+      },
+      "properties": {
+        "address": "200 Blue Ravine Rd, Folsom, CA",
+        "performer": "WinCo Foods",
+        "sequence": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.23382300016299,
+          38.679878999918785
+        ]
+      },
+      "properties": {
+        "address": "8701 Greenback Ln, Orangevale, CA",
+        "performer": "WinCo Foods",
+        "sequence": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29401699990417,
+          38.68005900021289
+        ]
+      },
+      "properties": {
+        "address": "7301 Greenback Ln, Citrus Heights, CA",
+        "performer": "Safeway",
+        "sequence": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.33942000043876,
+          38.68642599969049
+        ]
+      },
+      "properties": {
+        "address": "5345 Elkhorn Blvd, Sacramento, CA",
+        "performer": "Safeway",
+        "sequence": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3261850000853,
+          38.63814000004814
+        ]
+      },
+      "properties": {
+        "address": "4040 Manzanita Ave, Carmichael, CA",
+        "performer": "Safeway",
+        "sequence": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29315099971576,
+          38.59527600023927
+        ]
+      },
+      "properties": {
+        "address": "10635 Folsom Blvd, Rancho Cordova, CA",
+        "performer": "Safeway",
+        "sequence": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.38078500010944,
+          38.60725000016932
+        ]
+      },
+      "properties": {
+        "address": "2300 Watt Ave, Sacramento, CA",
+        "performer": "WinCo Foods",
+        "sequence": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.38685900022548,
+          38.59447600005535
+        ]
+      },
+      "properties": {
+        "address": "3320 Arden Wy, Sacramento, CA",
+        "performer": "Safeway",
+        "sequence": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.52471099982276,
+          38.65743700024997
+        ]
+      },
+      "properties": {
+        "address": "2851 Del Paso Rd, Sacramento, CA",
+        "performer": "Safeway",
+        "sequence": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.46492799998529,
+          38.57161499970961
+        ]
+      },
+      "properties": {
+        "address": "1025 Alhambra Blvd, Sacramento, CA",
+        "performer": "Safeway",
+        "sequence": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30724800005972,
+          38.66523900009051
+        ]
+      },
+      "properties": {
+        "address": "5450 Dewey Dr, Fair Oaks, CA",
+        "performer": "Safeway",
+        "sequence": 7
+      }
+    }
+  ]
+}

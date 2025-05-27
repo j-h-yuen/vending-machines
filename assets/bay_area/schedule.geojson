@@ -1,0 +1,663 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.093952,
+          37.957912
+        ]
+      },
+      "properties": {
+        "address": "6688 Alhambra Ave, Martinez, CA 94553, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.072346,
+          37.934251
+        ]
+      },
+      "properties": {
+        "address": "600 Patterson Blvd, Pleasant Hill, CA 94523, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.128386,
+          37.83631
+        ]
+      },
+      "properties": {
+        "address": "Moraga Shopping Center, 1355 Moraga Way, Moraga, CA 94556, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.058221,
+          37.948412
+        ]
+      },
+      "properties": {
+        "address": "1978 Contra Costa Blvd, Pleasant Hill, CA 94523, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.06155,
+          37.971259
+        ]
+      },
+      "properties": {
+        "address": "707 Contra Costa Blvd, Pleasant Hill, CA 94523, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.911197,
+          37.293191
+        ]
+      },
+      "properties": {
+        "address": "1530 Hamilton Ave, San Jose, CA 95125, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.833892,
+          37.26741
+        ]
+      },
+      "properties": {
+        "address": "179 Branham Ln, San Jose, CA 95136, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.509428,
+          37.772584
+        ]
+      },
+      "properties": {
+        "address": "850 La Playa St, San Francisco, CA 94121, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.638885,
+          38.269567
+        ]
+      },
+      "properties": {
+        "address": "701 Sonoma Mountain Pkwy, Petaluma, CA 94954, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.621917,
+          38.249127
+        ]
+      },
+      "properties": {
+        "address": "389 S McDowell Blvd, Petaluma, CA 94954, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.979037,
+          37.231411
+        ]
+      },
+      "properties": {
+        "address": "470 N Santa Cruz Ave, Los Gatos, CA 95030, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.966685,
+          37.292887
+        ]
+      },
+      "properties": {
+        "address": "950 W Hamilton Ave, Campbell, CA 95008, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.031092,
+          37.281232
+        ]
+      },
+      "properties": {
+        "address": "12876 Saratoga Sunnyvale Rd, Saratoga, CA 95070, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.995112,
+          37.322137
+        ]
+      },
+      "properties": {
+        "address": "5146 Stevens Creek Blvd, San Jose, CA 95129, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.111348,
+          37.402619
+        ]
+      },
+      "properties": {
+        "address": "645 San Antonio Rd, Mountain View, CA 94040, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.729267,
+          37.964774
+        ]
+      },
+      "properties": {
+        "address": "6700 Lone Tree Wy, Brentwood, CA 94513, USA",
+        "performer": "WinCo Foods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.777421,
+          37.680436
+        ]
+      },
+      "properties": {
+        "address": "1554 First St, Livermore, CA 94550, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.743056,
+          37.69597
+        ]
+      },
+      "properties": {
+        "address": "4495 First St, Livermore, CA 94551, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.874584,
+          37.674918
+        ]
+      },
+      "properties": {
+        "address": "Amador Center, 1701 Santa Rita Rd, Pleasanton, CA 94566, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.275761,
+          37.518614
+        ]
+      },
+      "properties": {
+        "address": "1100 El Camino Real, Belmont, CA 94002, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337787,
+          37.520829
+        ]
+      },
+      "properties": {
+        "address": "100 De Anza Blvd, San Mateo, CA 94402, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.313498,
+          37.553274
+        ]
+      },
+      "properties": {
+        "address": "1655 S El Camino Real, San Mateo, CA 94402, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27595,
+          37.556792
+        ]
+      },
+      "properties": {
+        "address": "921 E Hillsdale Blvd, Foster City, CA 94404, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.210165,
+          38.084509
+        ]
+      },
+      "properties": {
+        "address": "122 Robles Way, Vallejo, CA 94591, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.564229,
+          37.980715
+        ]
+      },
+      "properties": {
+        "address": "838 Sir Francis Drake Blvd, San Anselmo, CA 94960, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.517711,
+          37.92797
+        ]
+      },
+      "properties": {
+        "address": "137 Corte Madera Town Center, Corte Madera, CA 94925, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.532091,
+          38.062346
+        ]
+      },
+      "properties": {
+        "address": "5720 Nave Dr, Novato, CA 94949, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77559,
+          36.940009
+        ]
+      },
+      "properties": {
+        "address": "2010 Freedom Blvd, Freedom, CA 95019, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.908464,
+          36.978599
+        ]
+      },
+      "properties": {
+        "address": "16 Rancho Del Mar, Aptos, CA 95003, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.045212,
+          36.961358
+        ]
+      },
+      "properties": {
+        "address": "2203 Mission St, Santa Cruz, CA 95060, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.742122,
+          38.426913
+        ]
+      },
+      "properties": {
+        "address": "2055 Sebastopol Rd, Santa Rosa, CA 95407, USA",
+        "performer": "FoodMaxx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.827055,
+          38.404452
+        ]
+      },
+      "properties": {
+        "address": "406 N Main St, Sebastopol, CA 95472, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.752896,
+          38.452054
+        ]
+      },
+      "properties": {
+        "address": "1799 Marlow Rd, Santa Rosa, CA 95401, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.050451,
+          37.694739
+        ]
+      },
+      "properties": {
+        "address": "4015 E Castro Valley Blvd, Castro Valley, CA 94552, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.927013,
+          37.705862
+        ]
+      },
+      "properties": {
+        "address": "7499 Dublin Blvd, Dublin, CA 94568, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.874139,
+          37.706699
+        ]
+      },
+      "properties": {
+        "address": "4440 Tassajara Rd, Dublin, CA 94568, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.917666,
+          37.798045
+        ]
+      },
+      "properties": {
+        "address": "3496 Camino Tassajara, Danville, CA 94506, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.921901,
+          37.774169
+        ]
+      },
+      "properties": {
+        "address": "11060 Bollinger Canyon Rd, San Ramon, CA 94582, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.138634,
+          37.688412
+        ]
+      },
+      "properties": {
+        "address": "699 Lewelling Blvd, San Leandro, CA 94579, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.250832,
+          37.758673
+        ]
+      },
+      "properties": {
+        "address": "2227 S Shore Center, Alameda, CA 94501, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.230647,
+          37.775728
+        ]
+      },
+      "properties": {
+        "address": "3000 E 9th St, Oakland, CA 94606, USA",
+        "performer": "FoodMaxx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.181974,
+          37.797958
+        ]
+      },
+      "properties": {
+        "address": "4100 Redwood Rd, Oakland, CA 94619, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.280098,
+          37.829282
+        ]
+      },
+      "properties": {
+        "address": "3889 San Pablo Ave, Emeryville, CA 94608, USA",
+        "performer": "Pak N Save"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.083478,
+          37.679797
+        ]
+      },
+      "properties": {
+        "address": "22280 Foothill Blvd, Hayward, CA 94541, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.09627,
+          37.63243
+        ]
+      },
+      "properties": {
+        "address": "27300 Hesperian Blvd, Hayward, CA 94545, USA",
+        "performer": "FoodMaxx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.091467,
+          37.652712
+        ]
+      },
+      "properties": {
+        "address": "231 W Jackson St, Hayward, CA 94544, USA",
+        "performer": "Safeway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28051,
+          37.785476
+        ]
+      },
+      "properties": {
+        "address": "2600 5th St, Alameda, CA 94501, USA",
+        "performer": "Safeway"
+      }
+    }
+  ]
+}

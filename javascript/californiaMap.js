@@ -48,14 +48,26 @@ californiaButton.addEventListener('click', () => {
   }, 200);
 });
 
-const californiaDropdown = document.querySelector('.tab-dropdown');
-if (californiaDropdown) {
-  californiaDropdown.addEventListener('change', (e) => {
+const californiaDropdown2 = document.querySelector('.tab-dropdown-pc');
+if (californiaDropdown2) {
+  californiaDropdown2.addEventListener('change', (e) => {
     if (e.target.value === "map-California") {
       setTimeout(() => {
         californiaMap.invalidateSize();
         californiaMap.fitBounds(californiaBounds);
       }, 200);
     }
+
+    // Smooth transition back to "CHOOSE A DAY"
+    setTimeout(() => {
+      californiaDropdown2.style.opacity = 0;
+
+      setTimeout(() => {
+        californiaDropdown2.value = "";
+        californiaDropdown2.style.opacity = 1;
+      }, 300); // wait for fade out before reset
+    }, 250);
   });
 }
+
+
